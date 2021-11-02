@@ -1,0 +1,11 @@
+
+let ismi = prompt("😀ismingiz nima😀")
+let familya = prompt("😳famolya nima😳")
+let  yoshingiz = Number(prompt("😳yoshingiz-nechada😳"))
+let qaysidavlatdansiz = prompt("😀qaysi davlatdansiz😀")
+let qaysimevaniyoqtirasiz = prompt("🍌qaysi mevani yoqtirasiz🍌")
+let qaysitaomniyoqtirasiz = prompt("🥘qaysi taomni yoqtirasiz🥘")
+let qaysimashinaniyoqtirasiz = prompt("🚙qaysi mashinani yoqtirasiz🚙")
+let qaysihayvonniyoqtirasiz = prompt("🐎qaysi hayvonni yoqtirasiz🐎")
+let kelajadakimbolmoqchisiz = prompt("💻kelajakda kim bolmoqchisiz💻")
+alert(ismi + "😀" + familya + "😀" + yoshingiz + "😁" + qaysidavlatdansiz +"😉" + qaysimevaniyoqtirasiz + "🍌" + qaysitaomniyoqtirasiz + "🥘" + qaysimashinaniyoqtirasiz + "🚙"  + qaysihayvonniyoqtirasiz + "🐎" + kelajadakimbolmoqchisiz + "💻")
